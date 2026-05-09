@@ -12,3 +12,4 @@ C:\Users\jakes\Projects\CsharpProjects\RomanNumeralConverter\obj\Debug\net10.0\r
 C:\Users\jakes\Projects\CsharpProjects\RomanNumeralConverter\obj\Debug\net10.0\RomanNumeralConverter.pdb
 C:\Users\jakes\Projects\CsharpProjects\RomanNumeralConverter\obj\Debug\net10.0\RomanNumeralConverter.genruntimeconfig.cache
 C:\Users\jakes\Projects\CsharpProjects\RomanNumeralConverter\obj\Debug\net10.0\ref\RomanNumeralConverter.dll
+C:\Users\jakes\Projects\CsharpProjects\RomanNumeralConverter\obj\Debug\net10.0\RomanNumeralConverter.sourcelink.json

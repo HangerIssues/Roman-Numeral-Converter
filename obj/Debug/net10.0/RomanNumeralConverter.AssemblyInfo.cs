@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RomanNumeralConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceb186a4237dfdc2d8273ad1e2195317ba669d58")]
 [assembly: System.Reflection.AssemblyProductAttribute("RomanNumeralConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RomanNumeralConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
